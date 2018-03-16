@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`adds control 1`] = `
+<div
+  className="control"
+>
+  <button
+    className="button"
+    onClick={undefined}
+  >
+    <span
+      className="icon"
+    >
+      <i
+        className="fa fa-test"
+      />
+    </span>
+  </button>
+</div>
+`;
+
+exports[`displays childern 1`] = `
+<button
+  className="button"
+  onClick={undefined}
+>
+  test
+</button>
+`;
+
+exports[`displays icon 1`] = `
+<button
+  className="button"
+  onClick={undefined}
+>
+  <span
+    className="icon"
+  >
+    <i
+      className="fa fa-test"
+    />
+  </span>
+</button>
+`;

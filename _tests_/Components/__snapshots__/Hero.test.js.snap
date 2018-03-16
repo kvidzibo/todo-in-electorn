@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`adds primary 1`] = `
+<section
+  className="hero is-primary"
+>
+  <div
+    className="hero-body"
+  >
+    <div
+      className="container"
+    />
+  </div>
+</section>
+`;
+
+exports[`dispays subtitle 1`] = `
+<section
+  className="hero"
+>
+  <div
+    className="hero-body"
+  >
+    <div
+      className="container"
+    >
+      <h2
+        className="subtitle"
+      >
+        subtitle
+      </h2>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`displays title 1`] = `
+<section
+  className="hero"
+>
+  <div
+    className="hero-body"
+  >
+    <div
+      className="container"
+    >
+      <h1
+        className="title"
+      >
+        title
+      </h1>
+    </div>
+  </div>
+</section>
+`;
+
+exports[`hides subtitle 1`] = `
+<section
+  className="hero"
+>
+  <div
+    className="hero-body"
+  >
+    <div
+      className="container"
+    />
+  </div>
+</section>
+`;
+
+exports[`hides title 1`] = `
+<section
+  className="hero"
+>
+  <div
+    className="hero-body"
+  >
+    <div
+      className="container"
+    />
+  </div>
+</section>
+`;

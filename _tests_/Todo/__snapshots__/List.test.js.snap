@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    className="field"
+  >
+    <label
+      className="label"
+    >
+      task
+    </label>
+    <div
+      className="control"
+    >
+      <input
+        className="input"
+        name="task"
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <div
+      className="control"
+    >
+      <button
+        className="button"
+        onClick={[Function]}
+      >
+        Add
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`sets error on save error 1`] = `
+<div>
+  <div
+    className="field"
+  >
+    <label
+      className="label"
+    >
+      task
+    </label>
+    <div
+      className="control"
+    >
+      <input
+        className="input"
+        name="task"
+        onChange={[Function]}
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="field"
+  >
+    <div
+      className="control"
+    >
+      <button
+        className="button"
+        onClick={[Function]}
+      >
+        Add
+      </button>
+    </div>
+  </div>
+</div>
+`;

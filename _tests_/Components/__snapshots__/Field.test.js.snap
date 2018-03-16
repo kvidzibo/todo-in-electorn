@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`adds grouped 1`] = `
+<div
+  className="field is-grouped"
+>
+  <div
+    className="control"
+  >
+    test
+  </div>
+</div>
+`;
+
+exports[`displays controlled childern 1`] = `
+<div
+  className="field"
+>
+  <div
+    className="control"
+  >
+    test
+  </div>
+</div>
+`;
+
+exports[`displays error 1`] = `
+<div
+  className="field"
+>
+  <div
+    className="control"
+  >
+    test
+  </div>
+  <p
+    className="help is-danger"
+  >
+    error
+  </p>
+</div>
+`;
+
+exports[`displays label 1`] = `
+<div
+  className="field"
+>
+  <label
+    className="label"
+  >
+    label
+  </label>
+  <div
+    className="control"
+  >
+    test
+  </div>
+</div>
+`;
+
+exports[`removes control 1`] = `
+<div
+  className="field"
+>
+  test
+</div>
+`;
