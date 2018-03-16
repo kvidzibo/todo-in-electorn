@@ -1,6 +1,7 @@
 # Install
-clone the repo and run
+clone the repository and go inside the project then run
 ```
+mkdir static
 npm install
 ```
 # Run tests
