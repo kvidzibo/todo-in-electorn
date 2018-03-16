@@ -3,15 +3,15 @@ clone the repo and run
 ```
 npm install
 ```
-# Start in dev mode
-```
-npm run dev
-```
-# Start tests
+# Run tests
 ```
 npm run test
 ```
-# Start tests watch
+# Start dev
+```
+npm run dev
+```
+# Start test watch
 ```
 npm run watch
 ```
